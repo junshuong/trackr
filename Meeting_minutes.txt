@@ -1,0 +1,54 @@
+Weekly report:
+1. 1 page summary - highlights
+2. Actions to discussion (Immediate, Mid, Long term)
+
+(29/10/2020)
++ scenario where things go missing (environment - airport, nursing home) - how they address loss items
++ how suppliers - track deliveries
+
+
++ physical tag - RFID tag - to locate the physical item in the db
++ RFID tag - explore the costs 
+
+ 
++ use case of much scaled down environment - tracking
++ what would be the big picture
++ people's role in the solution - generate the solution - access info in a digestable format
+
++ what should and more importantly what SHOULDN'T be in it (in the project manual**)
+
+WEDNESDAY evening - mail Padraig (Paw-drich)
+
+
+* RTLS (Real Time Location Systems) - Technologies that can track location indoors
+* Usually has 2 parts: tags and location sensors. Tag (attached to item); Location sensors (fixed beacons within a building). 
+
+(12/11/2020)
++ personal items tracking -such as stethoscope
++ healthcare professionals - helping them track their personal items
++ maybe use ubiquitous WiFi?  
++ if you are going to develop a tech solution - what kind of technology will you deploy to help them
++ cost valuation - lost pen vs lost phone? is the org willing to pay for solution to find a pen or a phone
++ how are people going to access data - database & interface (mobile/web)  
++ what are the tech for tagging & tracking? give reasons for & against **
++ key takeaways of journals ** 
+
+* feasibility of the original proposal
+
+(19/11/2020)
++ value to individual & organisation
++ regardless of context - what are the parts of solution you need to look at?
+* store data - perhaps data is stored dynamically - what database?
+
+(THIS WEEK, 26/11/2020)
+* communication - with the database
+* interface - for the user (web/mobile) - different purposes for mobile and web
+* component to make up indoor tracking system - diagram 
+* solution for locating large item, indoors
+* solutions - NFC tagging, Bluetooth, Wi-Fi
+* tagging and tracking - alerts user when they leave the vicinity 
++ low powered technology as a solution
++ mobile app - for field personel to use
++ web app - for admins/supervisors to analyse data
++ Database is centralized -> Relational - structured data a better fit?
+# FOCUS ON TECHNOLOGICAL SOLUTIONS
