@@ -1,0 +1,17 @@
+1. Problem Statement 	
+
+2. Solution
+
+3. What it does - Unique selling point 
+
+4. Technical info - including dimensions
+
+5. Business Model - includes pricing of product, volume of product(if applicable)
+
+6. Target audience - volume of target audience, market survey
+
+7. Competitors - advantages vs disadvantages compared to competitors products
+
+VERY IMPORTANT:
+~ If you are using sensors, privacy is extremely important - GDPR
+
