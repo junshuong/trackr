@@ -52,3 +52,15 @@ WEDNESDAY evening - mail Padraig (Paw-drich)
 # FOCUS ON TECHNOLOGICAL SOLUTIONS - GPS or Bluetooth? Which is useful in what scenarios?
 -> solutions - NFC tagging, Bluetooth, Wi-Fi
 -> component to make up indoor tracking system - diagram 
+
+(THIS WEEK, 17/12/2020) 
+* target client - nursing home staff, enterprise, public
+* identify how data is stored - database system
+* web app or mobile app? - why?
+* ethical consideration - nursing home (24/7  tracking?) when using organization tools - privacy issues
+* emotional worth - how much is that item worth? 
+* enterprise standpoint - how much is that item worth? 
++ illegal dumping - public sending 
++ work/project plan for January, February, March
+-> what are the items that goes missing?  
+-> practical consideration - Wi-Fi/Bluetooth range - can it go through walls?    
